@@ -19,15 +19,11 @@ if (isDev) {
       remote: `git@github.com:itsprivate/ts-test.git`,
       branch: `main`,
       // Only import the docs folder from a codebase.
-<<<<<<< HEAD
       patterns: [
         "data/*-placeholder/1.json",
         "data/reddit-top/**",
         "data/reddit-top-issues/**",
       ],
-=======
-      patterns: ["data/*-placeholder/1.json", "data/redirect-devtop/**"],
->>>>>>> 8121fe15a05ee1ad88ace735bfe4653aace44453
     },
   });
 } else {
