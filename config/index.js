@@ -8,6 +8,7 @@ const siteMetadata = {
   keywords: ["buzzing", "reddit", "reddit中文", "reddit热门"],
   telegram: "@reddit_zh",
   telegram_chat_id: "-1001445816026",
+  iconUrl: "https://reddit.buzzing.cc/avatar.png",
   menuLinks: [
     {
       name: "每周精选",
